@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run charts-app-3.py
+web: sh setup.sh && streamlit run chart-app-3.py
