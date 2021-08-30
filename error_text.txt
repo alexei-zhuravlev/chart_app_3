@@ -1,1 +1,1 @@
-list index out of range'NoneType' object has no attribute 'replace'
+list index out of range'NoneType' object has no attribute 'replace'single positional indexer is out-of-bounds
